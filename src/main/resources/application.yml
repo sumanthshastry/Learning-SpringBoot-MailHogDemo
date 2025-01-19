@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: MailHogDemo
+app:
+  mail:
+    host: localhost
+    port: 2025
+    userName: maildev
+    password: maildev
+    from-address: no-reply@mailhogdemo.com
